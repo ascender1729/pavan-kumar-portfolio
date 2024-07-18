@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dubasipavankumar.com/static/css/main.daa4c1e4.css",
-    "main.js": "/dubasipavankumar.com/static/js/main.b58a5692.js",
-    "static/media/arvo-logo.png": "/dubasipavankumar.com/static/media/arvo-logo.98b5d8291d8dd74ad01d.png",
-    "static/media/eut-hub-logo.png": "/dubasipavankumar.com/static/media/eut-hub-logo.b3b48ebd8b2c7726f09f.png",
-    "static/media/narayana-logo.png": "/dubasipavankumar.com/static/media/narayana-logo.7555876a515c6ed44fc0.png",
-    "static/media/PHOTO.jpg": "/dubasipavankumar.com/static/media/PHOTO.c5e5079427e66f3c39d0.jpg",
-    "static/media/nit-patna-logo.png": "/dubasipavankumar.com/static/media/nit-patna-logo.a0e665719158201f3220.png",
-    "static/media/tejaswi-logo.png": "/dubasipavankumar.com/static/media/tejaswi-logo.b62de55c5e6882bf86de.png",
-    "index.html": "/dubasipavankumar.com/index.html",
-    "main.daa4c1e4.css.map": "/dubasipavankumar.com/static/css/main.daa4c1e4.css.map",
-    "main.b58a5692.js.map": "/dubasipavankumar.com/static/js/main.b58a5692.js.map"
+    "main.css": "/static/css/main.daa4c1e4.css",
+    "main.js": "/static/js/main.caca1b99.js",
+    "static/media/arvo-logo.png": "/static/media/arvo-logo.98b5d8291d8dd74ad01d.png",
+    "static/media/eut-hub-logo.png": "/static/media/eut-hub-logo.b3b48ebd8b2c7726f09f.png",
+    "static/media/narayana-logo.png": "/static/media/narayana-logo.7555876a515c6ed44fc0.png",
+    "static/media/PHOTO.jpg": "/static/media/PHOTO.c5e5079427e66f3c39d0.jpg",
+    "static/media/nit-patna-logo.png": "/static/media/nit-patna-logo.a0e665719158201f3220.png",
+    "static/media/tejaswi-logo.png": "/static/media/tejaswi-logo.b62de55c5e6882bf86de.png",
+    "index.html": "/index.html",
+    "main.daa4c1e4.css.map": "/static/css/main.daa4c1e4.css.map",
+    "main.caca1b99.js.map": "/static/js/main.caca1b99.js.map"
   },
   "entrypoints": [
     "static/css/main.daa4c1e4.css",
-    "static/js/main.b58a5692.js"
+    "static/js/main.caca1b99.js"
   ]
 }
