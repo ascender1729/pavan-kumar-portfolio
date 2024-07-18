@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.daa4c1e4.css",
-    "main.js": "/static/js/main.caca1b99.js",
+    "main.css": "/static/css/main.b9f5d25c.css",
+    "main.js": "/static/js/main.0e25eef4.js",
     "static/media/arvo-logo.png": "/static/media/arvo-logo.98b5d8291d8dd74ad01d.png",
     "static/media/eut-hub-logo.png": "/static/media/eut-hub-logo.b3b48ebd8b2c7726f09f.png",
     "static/media/narayana-logo.png": "/static/media/narayana-logo.7555876a515c6ed44fc0.png",
@@ -9,11 +9,11 @@
     "static/media/nit-patna-logo.png": "/static/media/nit-patna-logo.a0e665719158201f3220.png",
     "static/media/tejaswi-logo.png": "/static/media/tejaswi-logo.b62de55c5e6882bf86de.png",
     "index.html": "/index.html",
-    "main.daa4c1e4.css.map": "/static/css/main.daa4c1e4.css.map",
-    "main.caca1b99.js.map": "/static/js/main.caca1b99.js.map"
+    "main.b9f5d25c.css.map": "/static/css/main.b9f5d25c.css.map",
+    "main.0e25eef4.js.map": "/static/js/main.0e25eef4.js.map"
   },
   "entrypoints": [
-    "static/css/main.daa4c1e4.css",
-    "static/js/main.caca1b99.js"
+    "static/css/main.b9f5d25c.css",
+    "static/js/main.0e25eef4.js"
   ]
 }
